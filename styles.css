@@ -1,0 +1,110 @@
+body{
+  background: rgb(255, 182, 239);
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  font-style: italic;
+  margin: 0px;
+  margin-bottom: 100px;
+}
+
+header {
+  border-style:solid;
+  border-bottom: solid hotpink;
+  padding: 20px;
+  font-size: 25px;
+  color: hotpink;
+  
+}
+
+section{
+  font-family: "Dancing Script", cursive;
+  justify-content: center;
+
+}
+
+img {
+  height: 200px;
+}
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria-videos img {
+  opacity: 0.5;
+  height: 200px;
+}
+
+
+.categoria-videos img:hover {
+opacity: 1.0;
+border: 1px solid purple;
+body{
+    background: rgb(255, 182, 239);
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+header {
+    border-style:solid;
+    border-bottom: solid hotpink;
+    padding: 20px;
+    font-size: 25px;
+    color: hotpink;
+    
+  }
+
+  section{
+    font-family: "Dancing Script", cursive;
+    justify-content: center;
+ 
+  }
+
+  img {
+    height: 200px;
+  }
+  
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+  .categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-videos img:hover {
+  opacity: 1.0;
+  border: 1px solid purple;
+
+}
+
+.decoracao {
+  background: rgb(224, 92, 163);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  
+  justify-content: center;
+
+
+}
+
+}
+
+.decoracao {
+background: rgb(224, 92, 163);
+padding-bottom: 80px;
+padding-top: 80px;
+
+justify-content: center;
+
+
+}
